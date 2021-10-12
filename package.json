@@ -1,7 +1,7 @@
 {
-  "name": "Jarvis",
+  "name": "DENVER",
   "version": "1.0.0",
-  "description": "AKSHAY",
+  "description": "MK",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -59,9 +59,9 @@
     "url": "git+https://github.com/sparroo"
   },
   "keywords": [
-    "jarvis"
+    "DENVER"
   ],
-  "author": "AKSHAY",
+  "author": "MK",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sparroo"
